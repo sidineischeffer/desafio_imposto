@@ -1,0 +1,7 @@
+C:\temp\projetos\Desafio_Imposto\Desafio_Imposto\bin\Debug\Desafio_Imposto.exe.config
+C:\temp\projetos\Desafio_Imposto\Desafio_Imposto\bin\Debug\Desafio_Imposto.exe
+C:\temp\projetos\Desafio_Imposto\Desafio_Imposto\bin\Debug\Desafio_Imposto.pdb
+C:\temp\projetos\Desafio_Imposto\Desafio_Imposto\obj\Debug\Desafio_Imposto.csproj.AssemblyReference.cache
+C:\temp\projetos\Desafio_Imposto\Desafio_Imposto\obj\Debug\Desafio_Imposto.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Desafio_Imposto\Desafio_Imposto\obj\Debug\Desafio_Imposto.exe
+C:\temp\projetos\Desafio_Imposto\Desafio_Imposto\obj\Debug\Desafio_Imposto.pdb
